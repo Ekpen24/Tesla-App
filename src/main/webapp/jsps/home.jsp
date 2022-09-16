@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to EkpenSoftwareSolutions.</h1>
 <h1 align="center">We develop and support high quality Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2025.
+	           We are raising over 1m millionaires by 2025 as a target
 	We offer end-to-end Training in DevOps with Linux and Cloud equipping IT Engineers to becoming world class experts with unbeatable performance and credibility.</h1>
 <hr>
 <br>
