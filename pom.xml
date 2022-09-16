@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Hyper-Ekpen SS</finalName>
+		<finalName>EkpenSoftwareSolutions</finalName>
 		
 		<plugins>
 			<plugin>
